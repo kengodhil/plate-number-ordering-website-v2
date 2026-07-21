@@ -3,7 +3,7 @@ import { Check } from 'lucide-react';
 const colors = [
   { id: 'white', name: 'White', class: 'bg-white border-gray-300', textClass: 'text-gray-900', price: 15000 },
   { id: 'yellow', name: 'Yellow', class: 'bg-yellow-300', textClass: 'text-gray-900', price: 15000 },
-  { id: 'blue', name: 'Blue', class: 'bg-blue-600', textClass: 'text-white', price: 25000 },
+  { id: 'black', name: 'black', class: 'bg-black-600', textClass: 'text-white', price: 25000 },
   { id: 'green', name: 'Green', class: 'bg-green-600', textClass: 'text-white', price: 25000 },
 ];
 
