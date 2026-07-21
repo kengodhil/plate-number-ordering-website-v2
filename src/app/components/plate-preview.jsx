@@ -10,7 +10,7 @@ export function PlatePreview({ plateNumber, color }) {
       case 'black':
         return {
           bg: 'bg-black',
-          text: 'text-gray-900',
+          text: 'text-yellow-900',
           border: 'border-gray-900',
         };
       case 'yellow':
