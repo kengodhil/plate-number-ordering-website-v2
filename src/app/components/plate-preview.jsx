@@ -7,6 +7,12 @@ export function PlatePreview({ plateNumber, color }) {
           text: 'text-gray-900',
           border: 'border-gray-900',
         };
+      case 'black':
+        return {
+          bg: 'bg-black',
+          text: 'text-gray-900',
+          border: 'border-gray-900',
+        };
       case 'yellow':
         return {
           bg: 'bg-yellow-300',
